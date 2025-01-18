@@ -94,7 +94,7 @@ a{
     display: flex;
     align-items: center;
     gap: 40px;
-    padding: 24px 0;
+    
 }
 .contact .contact-mail-phone{
     display: block;
@@ -103,6 +103,7 @@ a{
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;
+    padding: 24px 0;
 
 }
 
@@ -135,8 +136,9 @@ a{
     color: #fff;
 
     max-width: 496px;
-    padding-bottom: 48px;
+
     margin: 0 auto;
+    margin-bottom: 48px;
  
 }
 .main-submit{
@@ -239,9 +241,6 @@ a{
     
 }
 .list-item-text{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     padding: 32px 0;
 
 }
